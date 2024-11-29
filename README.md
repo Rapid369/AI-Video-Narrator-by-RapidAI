@@ -3,8 +3,7 @@ AI Video Narrator by RapidAI An advanced web application that automatically gene
 
 Try it here:
 
-[
-](https://ai-video-narrator-by-rapidai.replit.app/)
+https://ai-video-narrator-by-rapidai.replit.app/
 
 https://c73e736d-0664-4646-ae74-68c1e6afe604-00-1dfpte62mystr.spock.replit.dev/
 
